@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alex Boschdemont - CEO de AgeWorld Agency</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 2em 0;
+        }
+        .section {
+            margin-bottom: 2em;
+        }
+        .section h2 {
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 0.5em;
+        }
+        .contact {
+            background-color: #333;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .contact a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Alex Boschdemont</h1>
+        <p>CEO de AgeWorld Agency</p>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <h2>Biografía</h2>
+            <p>Hola, soy Alex Boschdemont, CEO de AgeWorld Agency, una agencia de publicidad especializada en marketing de influencers. Con años de experiencia en la industria, he ayudado a numerosas marcas a conectar con sus audiencias a través de campañas innovadoras y efectivas. Mi pasión por el marketing y mi dedicación al éxito de mis clientes son los pilares de mi carrera.</p>
+        </div>
+
+        <div class="section">
+            <h2>AgeWorld Agency</h2>
+            <p>En AgeWorld Agency, nos especializamos en el marketing de influencers, ayudando a las marcas a amplificar su mensaje y alcanzar nuevos mercados. Ofrecemos una amplia gama de servicios, incluyendo la gestión de campañas de influencers, estrategia de contenido, y análisis de resultados. Nuestra misión es proporcionar soluciones de marketing personalizadas que generen resultados medibles.</p>
+        </div>
+
+        <div class="section">
+            <h2>Contacto</h2>
+            <p>Puedes contactarme a través de los siguientes medios:</p>
+            <ul>
+                <li>Email: <a href="mailto:alex@ageworldagency.com">alex@ageworldagency.com</a></li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/alexboschdemont" target="_blank">linkedin.com/in/alexboschdemont</a></li>
+                <li>Twitter: <a href="https://twitter.com/alexboschdemont" target="_blank">@alexboschdemont</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="contact">
+        <p>&copy; 2024 Alex Boschdemont. Todos los derechos reservados.</p>
+    </div>
+
+</body>
+</html>
